@@ -76,11 +76,11 @@ Also exploring [Agent Conductor](https://github.com/mhatreanuj57-alt/agent-condu
 </picture>
 
 <!-- activity:start -->
-**226 public contributions** · **12 active days** · **3-day longest active run**
+**227 public contributions** · **13 active days** · **4-day longest active run**
 
-2025-10-19 to 2026-10-20; fetched 2026-10-20 UTC. [Live calendar](https://github.com/mhatreanuj57-alt?tab=overview#contributions) · [Snapshot data](assets/activity.json) · [Still image](assets/activity-static.png).
+2025-10-19 to 2026-10-21; fetched 2026-10-21 UTC. [Live calendar](https://github.com/mhatreanuj57-alt?tab=overview#contributions) · [Snapshot data](assets/activity.json) · [Still image](assets/activity-static.png).
 
-**25 public repositories** · **2 repository stars** · **1 followers** (public GitHub API, same snapshot).
+**25 public repositories** · **3 repository stars** · **1 followers** (public GitHub API, same snapshot).
 <!-- activity:end -->
 
 <p align="center"><img src="assets/github-glance.png" width="400" alt="GitHub at a glance: actual public repository, star and follower counts. Native figures and snapshot date are above."></p>
