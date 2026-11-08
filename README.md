@@ -78,7 +78,7 @@ Also exploring [Agent Conductor](https://github.com/mhatreanuj57-alt/agent-condu
 <!-- activity:start -->
 **1043 public contributions** · **28 active days** · **6-day longest active run**
 
-2025-11-02 to 2026-11-07; fetched 2026-11-07 UTC. [Live calendar](https://github.com/mhatreanuj57-alt?tab=overview#contributions) · [Snapshot data](assets/activity.json) · [Still image](assets/activity-static.png).
+2025-11-09 to 2026-11-08; fetched 2026-11-08 UTC. [Live calendar](https://github.com/mhatreanuj57-alt?tab=overview#contributions) · [Snapshot data](assets/activity.json) · [Still image](assets/activity-static.png).
 
 **29 public repositories** · **4 repository stars** · **1 followers** (public GitHub API, same snapshot).
 <!-- activity:end -->
