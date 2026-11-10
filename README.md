@@ -17,6 +17,10 @@ I'm **Anuj Mhatre**, a B.Tech CSE (AI & ML) student at **CSMU, Navi Mumbai**.
 
 [Portfolio](https://anujmhatre.me) · [LinkedIn](https://linkedin.com/in/anuj-mhatre-031807ma) · [Credential archive](https://credential-constellation.vercel.app) · [Still hero](assets/hero-static.png)
 
+<a href="https://anujmhatre.me">
+  <img src="assets/blackhole-realistic.svg" width="100%" alt="Pixel-art black hole with a rotating accretion disk">
+</a>
+
 <a id="about"></a>
 
 ![01 About — Hello, I’m Anuj.](assets/title-about.svg)
