@@ -4,7 +4,7 @@
 
   <defs>
     <clipPath id="ach-clip-a"><rect x="0" y="0" width="700" height="250" rx="3" /></clipPath>
-    <clipPath id="ach-clip-b"><rect x="0" y="0" width="476" height="250" rx="3" /></clipPath>
+    <clipPath id="ach-clip-b"><rect x="0" y="0" width="440" height="250" rx="3" /></clipPath>
     </defs>
 
   <rect width="1200" height="430" rx="3" fill="#F4F0E8" />
