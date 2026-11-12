@@ -15,7 +15,10 @@ I'm **Anuj Mhatre**, a Computer Science student specializing in AI and ML at **C
 <a href="https://credential-constellation.vercel.app"><img src="assets/nav-archive.svg" alt="Credential archive" width="172"></a>
 </p>
 
-[Portfolio](https://anujmhatre.me) · [LinkedIn](https://linkedin.com/in/anuj-mhatre-031807ma) · [Credential archive](https://credential-constellation.vercel.app) · [Still hero](assets/hero-static.png)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10100F?style=for-the-badge&labelColor=FF5A3D)](https://anujmhatre.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-10100F?style=for-the-badge&labelColor=FF5A3D)](https://linkedin.com/in/anuj-mhatre-031807ma)
+[![Credential archive](https://img.shields.io/badge/Credentials-Browse-10100F?style=for-the-badge&labelColor=FF5A3D)](https://credential-constellation.vercel.app)
+[![Still hero image](https://img.shields.io/badge/Hero-Preview-10100F?style=for-the-badge&labelColor=FF5A3D)](assets/hero-static.png)
 
 <a href="https://anujmhatre.me">
   <img src="assets/blackhole-realistic.svg" width="100%" alt="Pixel-art black hole with a rotating accretion disk">
@@ -43,21 +46,21 @@ Building with causal attention, locality-aware models and retrieval from my note
 
 [![Mini-GPT — A decoder-only transformer built from scratch in PyTorch, with causal attention and a character-level tokenizer. The diagram is illustrative.](assets/project-mini-gpt.svg)](https://github.com/mhatreanuj57-alt/mini-gpt)
 
-**Mini-GPT** — A from-scratch PyTorch decoder-only transformer with causal attention and a character-level tokenizer, alongside a separate coding-assistant demo. [Source](https://github.com/mhatreanuj57-alt/mini-gpt) · [Live demo](https://mini-gpt-8yr0.onrender.com)
+**Mini-GPT** — A from-scratch PyTorch decoder-only transformer with causal attention and a character-level tokenizer, alongside a separate coding-assistant demo. [![Source](https://img.shields.io/badge/Source-Repository-10100F?style=for-the-badge&labelColor=FF5A3D)](https://github.com/mhatreanuj57-alt/mini-gpt) [![Live demo](https://img.shields.io/badge/Live-Demo-10100F?style=for-the-badge&labelColor=FF5A3D)](https://mini-gpt-8yr0.onrender.com)
 
 [![Navi Mumbai House Price Prediction — Home price estimates from locality and property features, using one-hot locality encoding and histogram gradient boosting. The diagram is illustrative.](assets/project-housing.svg)](https://github.com/mhatreanuj57-alt/navi-mumbai-house-price-prediction)
 
-**Navi Mumbai House Price Prediction** — A locality-aware home price estimation project with a Streamlit interface and FastAPI endpoint, using property features and histogram gradient boosting. [Source](https://github.com/mhatreanuj57-alt/navi-mumbai-house-price-prediction)
+**Navi Mumbai House Price Prediction** — A locality-aware home price estimation project with a Streamlit interface and FastAPI endpoint, using property features and histogram gradient boosting. [![Source](https://img.shields.io/badge/Source-Repository-10100F?style=for-the-badge&labelColor=FF5A3D)](https://github.com/mhatreanuj57-alt/navi-mumbai-house-price-prediction)
 
 [![DSA Tutor RAG — Answers grounded in my notes and C++ implementations, with hybrid vector/BM25 retrieval, reranking and source citations. The diagram is illustrative.](assets/project-rag.svg)](https://github.com/mhatreanuj57-alt/dsa-tutor-rag)
 
-**DSA Tutor RAG** — A question-answering app grounded in DSA notes and C++ implementations, combining vector and BM25 retrieval with reranking and source citations. [Source](https://github.com/mhatreanuj57-alt/dsa-tutor-rag)
+**DSA Tutor RAG** — A question-answering app grounded in DSA notes and C++ implementations, combining vector and BM25 retrieval with reranking and source citations. [![Source](https://img.shields.io/badge/Source-Repository-10100F?style=for-the-badge&labelColor=FF5A3D)](https://github.com/mhatreanuj57-alt/dsa-tutor-rag)
 
 [![Credential Constellation — A static learning archive with search, type filters and full-size previews, without a build step. The diagram is illustrative.](assets/project-credentials.svg)](https://github.com/mhatreanuj57-alt/credential-constellation)
 
-**Credential Constellation** — A static archive for learning records, with search, type filters, and full-size previews. [Source](https://github.com/mhatreanuj57-alt/credential-constellation) · [Live archive](https://credential-constellation.vercel.app)
+**Credential Constellation** — A static archive for learning records, with search, type filters, and full-size previews. [![Source](https://img.shields.io/badge/Source-Repository-10100F?style=for-the-badge&labelColor=FF5A3D)](https://github.com/mhatreanuj57-alt/credential-constellation) [![Live archive](https://img.shields.io/badge/Live-Archive-10100F?style=for-the-badge&labelColor=FF5A3D)](https://credential-constellation.vercel.app)
 
-Also exploring [Agent Conductor](https://github.com/mhatreanuj57-alt/agent-conductor) for coding agents in Git worktrees and [Draco CLI](https://github.com/mhatreanuj57-alt/draco-cli) for terminal coding assistance.
+Also exploring **Agent Conductor** for coding agents in Git worktrees [![Source](https://img.shields.io/badge/Source-Repository-10100F?style=for-the-badge&labelColor=FF5A3D)](https://github.com/mhatreanuj57-alt/agent-conductor) and **Draco CLI** for terminal coding assistance [![Source](https://img.shields.io/badge/Source-Repository-10100F?style=for-the-badge&labelColor=FF5A3D)](https://github.com/mhatreanuj57-alt/draco-cli).
 
 <a id="toolkit"></a>
 
@@ -82,7 +85,7 @@ Also exploring [Agent Conductor](https://github.com/mhatreanuj57-alt/agent-condu
 <!-- activity:start -->
 **1061 public contributions** · **30 active days** · **6-day longest active run**
 
-2025-11-09 to 2026-11-12; fetched 2026-11-12 UTC. [Live calendar](https://github.com/mhatreanuj57-alt?tab=overview#contributions) · [Snapshot data](assets/activity.json) · [Still image](assets/activity-static.png).
+2025-11-09 to 2026-11-12; fetched 2026-11-12 UTC. [![Live calendar](https://img.shields.io/badge/Live-Calendar-10100F?style=for-the-badge&labelColor=FF5A3D)](https://github.com/mhatreanuj57-alt?tab=overview#contributions) [![Snapshot data](https://img.shields.io/badge/Snapshot-Data-10100F?style=for-the-badge&labelColor=FF5A3D)](assets/activity.json) [![Still image](https://img.shields.io/badge/Still-Image-10100F?style=for-the-badge&labelColor=FF5A3D)](assets/activity-static.png).
 
 **29 public repositories** · **4 repository stars** · **1 followers** (public GitHub API, same snapshot).
 <!-- activity:end -->
@@ -100,29 +103,32 @@ Also exploring [Agent Conductor](https://github.com/mhatreanuj57-alt/agent-condu
 </picture>
 </a>
 
-Selected existing archive records:
+Certificate previews — select any image to open the full certificate:
 
 <!-- credentials:start -->
 
-- [**AI Fluency for Students**](https://credential-constellation.vercel.app/assets/credentials/ai-fluency-students-cert.png) — Anthropic, course completion.
-
-- [**Introduction to Python**](https://credential-constellation.vercel.app/assets/credentials/ibm-python-cert.png) — IBM Career Education Program, course completion.
-
-- [**Claude Code in Action**](https://credential-constellation.vercel.app/assets/credentials/claude-code-in-action-cert.png) — Anthropic, course completion.
-
-- [**Claude with the Anthropic API**](https://credential-constellation.vercel.app/assets/credentials/claude-api-cert.png) — Anthropic, course completion.
-
-- [**Introduction to Generative AI**](https://credential-constellation.vercel.app/assets/credentials/google-intro-genai-badge.png) — Google Cloud, completion badge.
-
-- [**Introduction to Large Language Models**](https://credential-constellation.vercel.app/assets/credentials/google-intro-llm-badge.png) — Google Cloud, completion badge.
-
-- [**AWS Cloud Practitioner Essentials**](https://credential-constellation.vercel.app/assets/credentials/aws-cloud-practitioner-essentials-cert.png) — AWS Training & Certification, course completion.
-
-- [**AWS Cloud Club hackathon at CSMU**](https://credential-constellation.vercel.app/assets/credentials/aws-cloud-club-csmu-hackathon-cert.png) — AWS Cloud Club at CSMU, participation certificate.
+<table>
+  <tr>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/ai-fluency-students-cert.png"><img src="https://credential-constellation.vercel.app/assets/credentials/ai-fluency-students-cert.png" width="260" alt="Preview: AI Fluency for Students certificate"></a><br><strong>AI Fluency for Students</strong><br>Anthropic · course completion</td>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/ibm-python-cert.png"><img src="https://credential-constellation.vercel.app/assets/credentials/ibm-python-cert.png" width="260" alt="Preview: Introduction to Python certificate"></a><br><strong>Introduction to Python</strong><br>IBM Career Education Program · course completion</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/claude-code-in-action-cert.png"><img src="https://credential-constellation.vercel.app/assets/credentials/claude-code-in-action-cert.png" width="260" alt="Preview: Claude Code in Action certificate"></a><br><strong>Claude Code in Action</strong><br>Anthropic · course completion</td>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/claude-api-cert.png"><img src="https://credential-constellation.vercel.app/assets/credentials/claude-api-cert.png" width="260" alt="Preview: Claude with the Anthropic API certificate"></a><br><strong>Claude with the Anthropic API</strong><br>Anthropic · course completion</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/google-intro-genai-badge.png"><img src="https://credential-constellation.vercel.app/assets/credentials/google-intro-genai-badge.png" width="260" alt="Preview: Introduction to Generative AI badge"></a><br><strong>Introduction to Generative AI</strong><br>Google Cloud · completion badge</td>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/google-intro-llm-badge.png"><img src="https://credential-constellation.vercel.app/assets/credentials/google-intro-llm-badge.png" width="260" alt="Preview: Introduction to Large Language Models badge"></a><br><strong>Introduction to Large Language Models</strong><br>Google Cloud · completion badge</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/aws-cloud-practitioner-essentials-cert.png"><img src="https://credential-constellation.vercel.app/assets/credentials/aws-cloud-practitioner-essentials-cert.png" width="260" alt="Preview: AWS Cloud Practitioner Essentials certificate"></a><br><strong>AWS Cloud Practitioner Essentials</strong><br>AWS Training &amp; Certification · course completion</td>
+    <td align="center"><a href="https://credential-constellation.vercel.app/assets/credentials/aws-cloud-club-csmu-hackathon-cert.png"><img src="https://credential-constellation.vercel.app/assets/credentials/aws-cloud-club-csmu-hackathon-cert.png" width="260" alt="Preview: AWS Cloud Club hackathon participation certificate"></a><br><strong>AWS Cloud Club hackathon at CSMU</strong><br>AWS Cloud Club at CSMU · participation certificate</td>
+  </tr>
+</table>
 
 <!-- credentials:end -->
 
-[Browse the full archive](https://credential-constellation.vercel.app/#collection-title).
+[![Browse full archive](https://img.shields.io/badge/Full-Credential_Archive-10100F?style=for-the-badge&labelColor=FF5A3D)](https://credential-constellation.vercel.app/#collection-title)
 
 <a id="connect"></a>
 
@@ -133,7 +139,7 @@ Selected existing archive records:
 <a href="https://anujmhatre.me"><img src="assets/nav-portfolio.svg" alt="Visit my portfolio" width="172"></a>
 </p>
 
-[LinkedIn](https://linkedin.com/in/anuj-mhatre-031807ma) · [Portfolio](https://anujmhatre.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-10100F?style=for-the-badge&labelColor=FF5A3D)](https://linkedin.com/in/anuj-mhatre-031807ma) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10100F?style=for-the-badge&labelColor=FF5A3D)](https://anujmhatre.me)
 
 <a href="https://anujmhatre.me"><img src="assets/anuj-ember-signature.svg" width="100%" alt="Decorative contribution-grid artwork spelling Anuj in coral and ember tones."></a>
 
