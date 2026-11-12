@@ -135,6 +135,8 @@ Selected existing archive records:
 
 [LinkedIn](https://linkedin.com/in/anuj-mhatre-031807ma) · [Portfolio](https://anujmhatre.me)
 
+<a href="https://anujmhatre.me"><img src="assets/anuj-ember-signature.svg" width="100%" alt="Decorative contribution-grid artwork spelling Anuj in coral and ember tones."></a>
+
 [![AM. Building, exploring, learning, documenting.](assets/contact.svg)](https://anujmhatre.me)
 
 **AM.**
