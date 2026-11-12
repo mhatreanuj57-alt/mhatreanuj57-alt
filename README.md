@@ -7,7 +7,7 @@
 </picture>
 </a>
 
-I'm **Anuj Mhatre**, a B.Tech CSE (AI & ML) student at **CSMU, Navi Mumbai**.
+I'm **Anuj Mhatre**, a Computer Science student specializing in AI and ML at **CSMU, Navi Mumbai**. I build projects in machine learning, retrieval, and developer tools, and share what I learn through code and documentation.
 
 <p align="center">
 <a href="https://anujmhatre.me"><img src="assets/nav-portfolio.svg" alt="Portfolio" width="172"></a>
@@ -43,19 +43,19 @@ Building with causal attention, locality-aware models and retrieval from my note
 
 [![Mini-GPT — A decoder-only transformer built from scratch in PyTorch, with causal attention and a character-level tokenizer. The diagram is illustrative.](assets/project-mini-gpt.svg)](https://github.com/mhatreanuj57-alt/mini-gpt)
 
-**Mini-GPT** — A decoder-only transformer built from scratch in PyTorch, with causal attention and a character-level tokenizer. [Source](https://github.com/mhatreanuj57-alt/mini-gpt)
+**Mini-GPT** — A from-scratch PyTorch decoder-only transformer with causal attention and a character-level tokenizer, alongside a separate coding-assistant demo. [Source](https://github.com/mhatreanuj57-alt/mini-gpt) · [Live demo](https://mini-gpt-8yr0.onrender.com)
 
 [![Navi Mumbai House Price Prediction — Home price estimates from locality and property features, using one-hot locality encoding and histogram gradient boosting. The diagram is illustrative.](assets/project-housing.svg)](https://github.com/mhatreanuj57-alt/navi-mumbai-house-price-prediction)
 
-**Navi Mumbai House Price Prediction** — Home price estimates from locality and property features, using one-hot locality encoding and histogram gradient boosting. [Source](https://github.com/mhatreanuj57-alt/navi-mumbai-house-price-prediction)
+**Navi Mumbai House Price Prediction** — A locality-aware home price estimation project with a Streamlit interface and FastAPI endpoint, using property features and histogram gradient boosting. [Source](https://github.com/mhatreanuj57-alt/navi-mumbai-house-price-prediction)
 
 [![DSA Tutor RAG — Answers grounded in my notes and C++ implementations, with hybrid vector/BM25 retrieval, reranking and source citations. The diagram is illustrative.](assets/project-rag.svg)](https://github.com/mhatreanuj57-alt/dsa-tutor-rag)
 
-**DSA Tutor RAG** — Answers grounded in my notes and C++ implementations, with hybrid vector/BM25 retrieval, reranking and source citations. [Source](https://github.com/mhatreanuj57-alt/dsa-tutor-rag)
+**DSA Tutor RAG** — A question-answering app grounded in DSA notes and C++ implementations, combining vector and BM25 retrieval with reranking and source citations. [Source](https://github.com/mhatreanuj57-alt/dsa-tutor-rag)
 
 [![Credential Constellation — A static learning archive with search, type filters and full-size previews, without a build step. The diagram is illustrative.](assets/project-credentials.svg)](https://github.com/mhatreanuj57-alt/credential-constellation)
 
-**Credential Constellation** — A static learning archive with search, type filters and full-size previews, without a build step. [Source](https://github.com/mhatreanuj57-alt/credential-constellation) · [Live archive](https://credential-constellation.vercel.app)
+**Credential Constellation** — A static archive for learning records, with search, type filters, and full-size previews. [Source](https://github.com/mhatreanuj57-alt/credential-constellation) · [Live archive](https://credential-constellation.vercel.app)
 
 Also exploring [Agent Conductor](https://github.com/mhatreanuj57-alt/agent-conductor) for coding agents in Git worktrees and [Draco CLI](https://github.com/mhatreanuj57-alt/draco-cli) for terminal coding assistance.
 
