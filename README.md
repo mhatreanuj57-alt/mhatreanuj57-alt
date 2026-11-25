@@ -85,7 +85,7 @@ Also exploring **Agent Conductor** for coding agents in Git worktrees [![Source]
 <!-- activity:start -->
 **1224 public contributions** · **35 active days** · **6-day longest active run**
 
-2025-11-23 to 2026-11-24; fetched 2026-11-24 UTC. [Live calendar](https://github.com/mhatreanuj57-alt?tab=overview#contributions) · [Snapshot data](assets/activity.json) · [Still image](assets/activity-static.png).
+2025-11-23 to 2026-11-25; fetched 2026-11-25 UTC. [Live calendar](https://github.com/mhatreanuj57-alt?tab=overview#contributions) · [Snapshot data](assets/activity.json) · [Still image](assets/activity-static.png).
 
 **30 public repositories** · **4 repository stars** · **2 followers** (public GitHub API, same snapshot).
 <!-- activity:end -->
